@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI-Photo-Generator/static/css/main.40224cb5.chunk.css",
+    "main.js": "/AI-Photo-Generator/static/js/main.ee0abcab.chunk.js",
+    "main.js.map": "/AI-Photo-Generator/static/js/main.ee0abcab.chunk.js.map",
+    "runtime-main.js": "/AI-Photo-Generator/static/js/runtime-main.de88ec29.js",
+    "runtime-main.js.map": "/AI-Photo-Generator/static/js/runtime-main.de88ec29.js.map",
+    "static/js/2.e2ed50fd.chunk.js": "/AI-Photo-Generator/static/js/2.e2ed50fd.chunk.js",
+    "static/js/2.e2ed50fd.chunk.js.map": "/AI-Photo-Generator/static/js/2.e2ed50fd.chunk.js.map",
+    "index.html": "/AI-Photo-Generator/index.html",
+    "static/css/main.40224cb5.chunk.css.map": "/AI-Photo-Generator/static/css/main.40224cb5.chunk.css.map",
+    "static/js/2.e2ed50fd.chunk.js.LICENSE.txt": "/AI-Photo-Generator/static/js/2.e2ed50fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de88ec29.js",
+    "static/js/2.e2ed50fd.chunk.js",
+    "static/css/main.40224cb5.chunk.css",
+    "static/js/main.ee0abcab.chunk.js"
+  ]
+}
